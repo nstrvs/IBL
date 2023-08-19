@@ -1,0 +1,14 @@
+{
+  "name": "IBL",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "parcel build src/index.js --dist-dir dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nstrvs/IBL"
+  },
+  "dependencies": {
+    "parcel": "^2.9.3"
+  }
+}
